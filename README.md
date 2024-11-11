@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/36e6ddd1-3b46-47a3-be4a-2f365aac5686)# Ex-8---Implement-the-AES-Encryption-and-decryption-Completion-requirements
+# Ex-8---Implement-the-AES-Encryption-and-decryption-Completion-requirements
 # AIM
 Implement the AES Encryption and decryption.
 # Algorithm:
